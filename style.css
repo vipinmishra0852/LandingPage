@@ -13,8 +13,8 @@ html,body{
 @font-face {
   font-family: 'kajiro';
   src: url('Kajiro Bold.ttf') format('truetype');
- 
 }
+
 #main{
     height: 100vh;
     width: 100%;
